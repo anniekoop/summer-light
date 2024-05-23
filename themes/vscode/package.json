@@ -1,0 +1,28 @@
+{
+  "name": "summer-light",
+  "displayName": "Summer Light",
+  "description": "Light theme for VS Code inspired by the bold, fun colors of summertime.",
+  "publisher": "ABK Designs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anniekoop/summer-light.git"
+  },
+  "homepage": "https://github.com/anniekoop/summer-light/tree/main/themes/vscode#readme",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Summer Light",
+        "uiTheme": "vs",
+        "path": "./summer-light.json"
+      }
+    ]
+  }
+}
