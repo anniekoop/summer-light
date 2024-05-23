@@ -3,8 +3,8 @@ A light theme for VS Code with bold, summer-inspired colors.
 
 ## Preview
 
-![](docs/summer-light.png)
+![](summer-light.png)
 
 ## Color Palette
 
-![](docs/summer-light-palette.png)
+![](summer-light-palette.png)
